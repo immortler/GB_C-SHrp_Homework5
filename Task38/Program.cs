@@ -90,7 +90,7 @@ void DifOfMaxAndMin(double[] array)
             Console.Write($"{array[i]}] ");
         }
     }
-    Console.WriteLine($"is {max-min}.");
+    Console.WriteLine($"is {max - min}.");
     return;
 }
 
