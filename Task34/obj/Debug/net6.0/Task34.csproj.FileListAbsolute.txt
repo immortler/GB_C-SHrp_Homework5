@@ -1,0 +1,15 @@
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\bin\Debug\net6.0\Task34.exe
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\bin\Debug\net6.0\Task34.deps.json
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\bin\Debug\net6.0\Task34.runtimeconfig.json
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\bin\Debug\net6.0\Task34.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\bin\Debug\net6.0\Task34.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.csproj.AssemblyReference.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.GeneratedMSBuildEditorConfig.editorconfig
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.AssemblyInfoInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.AssemblyInfo.cs
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.csproj.CoreCompileInputs.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\refint\Task34.dll
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.pdb
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\Task34.genruntimeconfig.cache
+A:\GB\Intr_In_Progr_Lang\C#_hw5\Task34\obj\Debug\net6.0\ref\Task34.dll
