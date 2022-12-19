@@ -26,7 +26,7 @@ int GetNumber(string message)
     return result;
 }
 
-void GetArrayAndCountTwoDigits(int lenght)
+void GetArrayAndCountEvenNumbers(int lenght)
 {
     int[] array = new int[lenght];
     Random rnd = new Random();
@@ -64,4 +64,4 @@ void GetArrayAndCountTwoDigits(int lenght)
     return;
 }
 
-GetArrayAndCountTwoDigits(lenght);
+GetArrayAndCountEvenNumbers(lenght);
